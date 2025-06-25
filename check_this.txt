@@ -1,0 +1,36 @@
+availablitiy -  what percentage are they available on mat 
+
+utilization  - 
+
+effectiveness - i will go and i will convert the raid and come 
+
+total raid points scrored by the raider - the total tackle points by the raider = 3 - 1 = 2 net gain or average 
+
+
+situation : - 
+
+situation : - 1
+do or die defender who has better strike rate is important for me 
+
+situation : - 2
+all the third ride is do or die situation for the raider team 
+
+situation :- 3
+
+what is the score difference 
+when the team is leading , how do i play 
+
+if im leading more than 7 = > not great 
+
+when the team is trailing , then if i got score, that is important 
+
+when both team is neutral , the how do i play is important 
+
+
+three situation = > number of people on the mat, score difference , raid situation 
+fourth situation = > different win probability based on the time and team situation 
+
+score situation => team a score,b score (cumulative ) 
+raid situation => RaidStart_PlayersOnMat_TackleTeam 
+
+, raid points, tackle points , tacle team , player on the mat 
