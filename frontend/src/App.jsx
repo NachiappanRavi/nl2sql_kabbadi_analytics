@@ -64,8 +64,8 @@ function App() {
 
   const exampleQuestions = [
     "urls when pawan scored a raid point when his team was lagging behind by 2 points or more and when there was less than 15 raids left in the game",
-    "i want to know total raids of Pawan Sherawat_RIN_TT17",
-    "raid url when pawan raided successfully against bengaluru bulls in the first match"
+    "I want to know total raids of Pawan Sherawat_RIN_TT17",
+    "match urls where pawan scored a bonus and got a defender out"
   ];
 
   const handleExampleClick = (example) => {
