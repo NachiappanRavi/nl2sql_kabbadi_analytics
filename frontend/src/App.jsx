@@ -63,9 +63,9 @@ function App() {
   };
 
   const exampleQuestions = [
-    "I want to know total raids of Pawan Sherawat_RIN_TT17",
+    "list out all lcnr defenders who got out pawan along with the counts",
     "match urls where pawan scored a bonus and got a defender out",
-    "list out all lcnr defenders who got out pawan along with the counts"
+    "I want to know total raids of Pawan Sherawat_RIN_TT17"
   ];
 
   const handleExampleClick = (example) => {
