@@ -29,8 +29,6 @@ venv/
 __pycache__/
 *.pyc
 
-# Data
-*.xlsx
 
 # Backend logs
 backend/*.log
