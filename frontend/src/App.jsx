@@ -65,7 +65,7 @@ function App() {
   const exampleQuestions = [
     "i want to know the bonus points of raid id 892001001",
     "i want to know total raids of Pawan Sherawat_RIN_TT17",
-    "Which raiders scored the most total raid points in winning matches, and what was their average raid points per successful raid across each match leg (First/Second)?",
+    "raid url when pawan raided successfully against bengaluru bulls in the first match"
   ];
 
   const handleExampleClick = (example) => {
