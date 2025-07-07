@@ -2,7 +2,8 @@ import React, { useState } from 'react';
 import { Send, Database, Sparkles, AlertCircle, CheckCircle, Code, BarChart3 } from 'lucide-react';
 import './index.css';
 
-const API_BASE_URL = 'http://localhost:8000';
+// const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = 'https://nl2sql-kabbadi-analytics.onrender.com';
 
 function App() {
   const [question, setQuestion] = useState('');
