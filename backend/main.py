@@ -17,6 +17,8 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_google_genai import ChatGoogleGenerativeAI
 from operator import itemgetter
 import tiktoken
+from dotenv import load_dotenv
+load_dotenv()
 
 # -------------------------------
 # Logging Setup
@@ -66,7 +68,7 @@ class QueryResponse(BaseModel):
 # Environment and Config
 # -------------------------------
 EXCEL_PATH = "KDB.xlsx"
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyCUrCxWznBHeuZUmt4HUBqUAzsAdN1bwr0")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # SYSTEM_PROMPT_TEMPLATE = """
 # You are a SQLite expert. Given a natural language input question, perform the following steps:
