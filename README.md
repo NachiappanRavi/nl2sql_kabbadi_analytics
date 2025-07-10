@@ -2,6 +2,14 @@
 
 A modern full-stack application that allows users to ask questions about their database in natural language. Built with React frontend and FastAPI backend, powered by Google Gemini AI and LangChain.
 
+# Demo 
+
+<video width="600" controls>
+  <source src="https://github.com/NachiappanRavi/nl2sql_kabbadi_analytics/raw/main/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Features
 
 - 🤖 Natural language to SQL conversion using Google Gemini AI
